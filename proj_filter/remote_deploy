@@ -1,6 +1,6 @@
 #!/bin/bash
 
 
-ssh ucsc "cd /home/ec2-user/repo/ucsc_class/proj_filter && git pull && ./deploy"
+ssh ucsc "cd /srv/gatoruu/ucsc-spark-class/proj_filter && git pull && ./deploy"
 
 
